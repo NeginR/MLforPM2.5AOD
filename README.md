@@ -27,16 +27,16 @@ Before running the project, ensure you have the following:
 - Python 3.8 or higher
 - Jupyter Notebook
 - Required Python libraries:
-  numpy==1.24.3
-  pandas==1.5.3
-  matplotlib==3.7.1
-  seaborn==0.12.2
-  scikit-learn==1.2.2
-  jupyter==1.0.0
-  statsmodels==0.13.5
-  xgboost==1.7.5
-  tensorflow==2.13.0
-  keras==2.13.1
+  numpy==1.24.3,
+  pandas==1.5.3,
+  matplotlib==3.7.1,
+  seaborn==0.12.2,
+  scikit-learn==1.2.2,
+  jupyter==1.0.0,
+  statsmodels==0.13.5,
+  xgboost==1.7.5,
+  tensorflow==2.13.0,
+  keras==2.13.1,
 
 
 ## Installation
