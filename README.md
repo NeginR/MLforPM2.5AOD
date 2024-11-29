@@ -45,3 +45,23 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/NeginR/MLforPM2.5.git
    cd MLforPM2.5
+
+
+
+   
+---
+
+### **Contact Section**
+
+```markdown
+## Contact
+
+For questions, suggestions, or collaboration opportunities regarding this project, feel free to contact us:
+
+- **Negin Rezaei Nokandeh**  
+  - Email: negin.rezaeinokandeh@mail.mcgill.ca  
+  - GitHub: [https://github.com/NeginR](https://github.com/NeginR)
+
+- **Supervisor: Dr. Parisa A. Ariya**  
+  - https://www.mcgill.ca/meteo/facultystaff/ariya
+
