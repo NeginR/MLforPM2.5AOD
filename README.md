@@ -53,7 +53,7 @@ Follow these steps to set up the project locally:
 
 ### **Contact Section**
 
-```markdown
+
 ## Contact
 
 For questions, suggestions, or collaboration opportunities regarding this project, feel free to contact us:
