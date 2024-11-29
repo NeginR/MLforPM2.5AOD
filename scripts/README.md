@@ -2,7 +2,10 @@
 
 ### Google Earth Engine Script
 
-The `GEE_MAIAC.js` script demonstrates how to retrieve and visualize Optical Depth data from the MODIS MAIAC dataset in Google Earth Engine.
+The `GEE_MAIAC.js` script demonstrates how to retrieve and visualize **Optical Depth (055 microns)** data from the MODIS MAIAC dataset in Google Earth Engine.
+### Dataset
+- **Source**: [MODIS/061/MCD19A2_GRANULES](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MCD19A2_GRANULES)
+- **Description**: This dataset provides aerosol optical depth (AOD) data at 055 microns, retrieved from the Moderate Resolution Imaging Spectroradiometer (MODIS) sensor.
 
 #### Usage
 1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/).
