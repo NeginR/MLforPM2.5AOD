@@ -36,7 +36,7 @@ Before running the project, ensure you have the following:
   statsmodels==0.13.5,
   xgboost==1.7.5,
   tensorflow==2.13.0,
-  keras==2.13.1,
+  keras==2.13.1.
 
 
 ## Installation
