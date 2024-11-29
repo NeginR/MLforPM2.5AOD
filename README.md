@@ -60,8 +60,8 @@ For questions, suggestions, or collaboration opportunities regarding this projec
 
 - **Negin Rezaei Nokandeh**  
   - Email: negin.rezaeinokandeh@mail.mcgill.ca  
-  - GitHub: [https://github.com/NeginR](https://github.com/NeginR)
+  - GitHub: https://github.com/NeginR
 
 - **Supervisor: Dr. Parisa A. Ariya**  
-  - https://www.mcgill.ca/meteo/facultystaff/ariya
+  - Webpage: https://www.mcgill.ca/meteo/facultystaff/ariya
 
