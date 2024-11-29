@@ -14,6 +14,7 @@ Air pollution, particularly fine particulate matter (PM2.5), poses significant r
 The repository is organized as follows:
 
 - `data/`: Placeholder for raw and processed datasets (datasets are not included due to size restrictions).
+- `SHARIF_lag.csv`: This dataset is an example for running the code.
 - `notebooks/`: Contains Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
 - `ML for AOD PM.ipynb`: Main notebook for end-to-end implementation.
 - `scripts`: Google Earth Engine codes for AOD visualization.
